@@ -41,6 +41,7 @@ https://vrsolanki1431-ui.github.io/simple-calculator/
 
 ## ▶️ How to Run
 
+
 1. Clone the repository
 
 ```bash
