@@ -54,7 +54,7 @@ git clone https://github.com/vrsolanki1431-ui/simple-calculator.git
 
 ## 📸 Preview
 
-<img width="350" alt="Calculator Preview" src="https://via.placeholder.com/350x650.png?text=Calculator+Preview">
+<img width="350" alt="Calculator Preview" src="https://vrsolanki1431-ui.github.io/simple-calculator/ ">
 
 > Replace the preview image with a real screenshot of your calculator.
 
